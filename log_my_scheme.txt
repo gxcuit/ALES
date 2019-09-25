@@ -1,0 +1,45 @@
+INFO(Wed Aug 14 07:24:37 2019) :
+(1)tag_key__gen_time is 0.002224
+(2)re_key__gen_time is 0.001841
+(3)auth_gen_time for 1000 blocks is 8.097550
+(4)proof_gen_time for 300 checking-blocks is 0.110551
+(5)proof_verifacation_time for 300 cheching-blocks is 1.328812
+-----individual auditing valid!-----
+(6)batch auditing time for 100 TASK is 1.332724
+-----batch auditing valid!-----
+INFO(Wed Aug 14 07:24:48 2019) :
+(1)tag_key__gen_time is 0.002209
+(2)re_key__gen_time is 0.001848
+(3)auth_gen_time for 1000 blocks is 8.070032
+(4)proof_gen_time for 300 checking-blocks is 0.109921
+(5)proof_verifacation_time for 300 cheching-blocks is 1.332026
+-----individual auditing valid!-----
+(6)batch auditing time for 100 TASK is 1.333471
+-----batch auditing valid!-----
+INFO(Wed Aug 14 07:24:59 2019) :
+(1)tag_key__gen_time is 0.002212
+(2)re_key__gen_time is 0.001861
+(3)auth_gen_time for 1000 blocks is 8.078284
+(4)proof_gen_time for 300 checking-blocks is 0.110292
+(5)proof_verifacation_time for 300 cheching-blocks is 1.326446
+-----individual auditing valid!-----
+(6)batch auditing time for 100 TASK is 1.332248
+-----batch auditing valid!-----
+INFO(Wed Aug 14 07:25:11 2019) :
+(1)tag_key__gen_time is 0.002219
+(2)re_key__gen_time is 0.001836
+(3)auth_gen_time for 1000 blocks is 8.098703
+(4)proof_gen_time for 300 checking-blocks is 0.110020
+(5)proof_verifacation_time for 300 cheching-blocks is 1.346560
+-----individual auditing valid!-----
+(6)batch auditing time for 100 TASK is 1.349185
+-----batch auditing valid!-----
+INFO(Wed Aug 14 07:25:22 2019) :
+(1)tag_key__gen_time is 0.002162
+(2)re_key__gen_time is 0.001846
+(3)auth_gen_time for 1000 blocks is 8.179509
+(4)proof_gen_time for 300 checking-blocks is 0.114032
+(5)proof_verifacation_time for 300 cheching-blocks is 1.343804
+-----individual auditing valid!-----
+(6)batch auditing time for 100 TASK is 1.344709
+-----batch auditing valid!-----
